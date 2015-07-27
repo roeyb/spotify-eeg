@@ -1,0 +1,23 @@
+{
+  "name": "spotify-eeg",
+  "version": "1.0.0",
+  "description": "EEG spotify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roeyb/spotify-eeg.git"
+  },
+  "author": "Roey Brecher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roeyb/spotify-eeg/issues"
+  },
+  "homepage": "https://github.com/roeyb/spotify-eeg#readme",
+  "dependencies": {
+    "node-spotify-webhelper": "git+https://github.com/roeyb/node-spotify-webhelper.git",
+    "ws": "^0.7.2"
+  }
+}
